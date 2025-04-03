@@ -2,7 +2,7 @@
 TaskFlowBoard is an intelligent task management system that uses AI to automatically assign tasks to employees based on their skills, experience, and workload.
 
 1.git clone <repository-url>  
-2.cd <repository-name> br
+2.cd <repository-name><br>
 3.streamlit run app.py --server.port=8501  
 
 # If port is already in use  
